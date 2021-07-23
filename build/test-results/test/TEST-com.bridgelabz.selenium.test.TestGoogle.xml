@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.test.TestGoogle" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-23T10:20:22" hostname="DESKTOP-KFGQFK8" time="9.263">
+  <properties/>
+  <testcase name="toolTip" classname="com.bridgelabz.selenium.test.TestGoogle" time="9.263"/>
+  <system-out><![CDATA[ToolTip is: Search by voice
+ToolTip is: Search by voice
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
