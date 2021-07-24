@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/sachin/IdeaProjects/Selemium_ToolTip/src/test/java/com/bridgelabz/selenium/test">
+        <classes>
+            <class name="com.bridgelabz.selenium.test.Broken_Link_Test">
+                <methods>
+                    <include name="broken_Link"/>
+                </methods>
+            </class>
+            <class name="com.bridgelabz.selenium.test.TestGoogle">
+                <methods>
+                    <include name="toolTipVerify"/>
+                    <include name="toolTip"/>
+                    <include name="broken_Link"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
